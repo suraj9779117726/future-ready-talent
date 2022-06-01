@@ -34,7 +34,7 @@ One of the most popular career consultant website, Edu Zone enjoys a large hall 
 # U CAN CHECK THE VIDEO FOR THIS PROJECT BY CLICKING ON THE LINK BELOW
 <br>
 
-# [Project video](https://youtu.be/AnqDyx7UWPk)
+# [Project video](https://youtu.be/nKSQYIQt3Xo)
 
 <br>
 
