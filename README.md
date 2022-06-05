@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
-
+https://lemon-sea-07f103010.1.azurestaticapps.net/
 </h1>
 
 #  Edu Zone 
