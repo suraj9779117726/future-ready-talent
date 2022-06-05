@@ -2,7 +2,7 @@
 <br>
 <h1>
 To run this website  click on this link below <br>
-https://blue-sand-0ca91ca10.1.azurestaticapps.net/
+
 </h1>
 
 #  Edu Zone 
